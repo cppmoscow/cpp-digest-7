@@ -21,7 +21,7 @@ C++ Дайджест №7 (30 октября – 12 ноября 2023)
 
 1. Elizaveta Shulankina: [Analyzing C++ applications for performance optimization](https://www.youtube.com/watch?v=M1D8iez1Ph0) — Введение в анализ производительности программ на C++ с помощью [Intel VTune Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html) и [Intel Advisor](https://www.intel.com/content/www/us/en/developer/tools/oneapi/advisor.html).
 2. Tristan Brindle: [Iteration Revisited](https://www.youtube.com/watch?v=bMitr8ReVeg) — О проблемах безопасности итераторов и библиотеке [Flux](https://github.com/tcbrindle/flux), предлагающей более безопасные и не менее производительные абстракции для итерации по последовательностям.
-4. Björn Fahller: [Moar functional in C++23](https://www.youtube.com/watch?v=NoSfRWUX6j0) — О функциях высшего порядка и том, как они могут сделать ваш код более гибким и выразительным.
+4. Björn Fahller: [Moar functional in C++23](https://www.youtube.com/watch?v=NoSfRWUX6j0) — О [функциях высшего порядка](https://w.wiki/88wg) и том, как они могут сделать ваш код более гибким и выразительным.
 
 ## Послесловие
 
