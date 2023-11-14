@@ -14,6 +14,9 @@ C++ Дайджест №7 (30 октября – 12 ноября 2023)
 
 ## ⚡️️ Новости и релизы
 
+1. 21 ноября, бесплатно, [C++ митап в Москве и онлайне](https://engineer.yadro.com/cpp-meetup/?utm_source=habr&utm_medium=referral&utm_campaign=cppdigest13112023) — Константин Владимиров, Илья Шишков и инженеры YADRO поговорят о С++23, lifetime extension и технических собеседованиях.
+2. [CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/) — Презентация CLion Nova — того же CLion, но на движке [ReSharper C++](https://www.jetbrains.com/resharper-cpp/) ([Rider C++](https://www.jetbrains.com/lp/rider-unreal/)): улучшение производительности основных операций (подсветка кода, полнотекстовый поиск, индексирование файлов); улучшение отзывчивости UI; частичный отказ от [clang language server](https://clangd.llvm.org/).
+
 ## 📝 Статьи
 
 1. Marco Arena: [SObjectizer Tales – 4: Handling commands](https://marcoarena.wordpress.com/2023/11/02/sobjectizer-tales-4/) — Продолжение серии статей, посвященной построению программ на основе акторной модели с помощью [SObjectizer](https://github.com/Stiffstream/sobjectizer): Об обработке команд.
@@ -21,6 +24,9 @@ C++ Дайджест №7 (30 октября – 12 ноября 2023)
 3. Dian-Lun Li: [A Concise Introduction to Coroutines](https://www.modernescpp.com/index.php/a-concise-introduction-to-coroutines-by-dian-lun-li/) — Введение в корутины (C++20): О Promise Type, Awaitable и Coroutine Handle.
 4. Sandor Dargo: [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection) — Повесть о поддержке сборки мусора в C++: включенной в C++11, так нигде и не реализованной, окончательно удаленной в C++23.
 5. Sandor Dargo: [Extern templates to reduce binary size](https://www.sandordargo.com/blog/2023/11/08/extern-templates) — Об использовании `extern template` для сокращения размеров бинарных файлов.
+6. Herb Sutter: [Trip report: Autumn ISO C++ standards meeting (Kona, HI, USA)](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/) — Отчёт о недавно прошедшей встрече WG21 (Комитет по стандартизации C++) в Коне: какие пропозалы вошли в C++26 (pack indexing, `<linalg>`, `<debugging>`); какие вот-вот войдут, но требуют небольших доработок (contracts, reflection); и для каких поезд уже прошёл.
+7. The CLion Blog: [Striving For Better C++ Code, Part I: Data Flow Analysis Basics](https://blog.jetbrains.com/clion/2023/11/striving-for-better-cpp-code-part-i-data-flow-analysis-basics/) — О том, что такое анализ потоков данных, и какие ошибки в вашем коде с его помощью может находить CLion.
+8. a4z: [Compile time string literals processing, but why?](https://a4z.gitlab.io/blog/2023/11/04/Compiletime-string-literals-processing.html) — О том, какие операции над строковыми литералами мы можем выполнять в компайл-тайме.
 
 ## 📺 Видео и доклады
 
